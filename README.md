@@ -7,7 +7,7 @@ Java后端各种小工具的集合，简便开发。
 ## 部署步骤
 
 #### jar包导入方式
-下载jar包并自行导入，这是[下载地址](https://github.com/Monhitul/minimoon/jar/minimoon-1.0.jar)。
+下载jar包并自行导入，这是[下载地址](jar/minimoon-1.0.jar)。
 
 #### maven依赖方式
 （待发布）
